@@ -1,0 +1,93 @@
+﻿@page "/upload"
+@inject HttpClient Http
+@using Microsoft.AspNetCore.Components.Forms
+@using System.Net.Http.Headers
+@using UFAR.Classroom.Entities
+@rendermode InteractiveServer
+
+<PageTitle>Upload File</PageTitle>
+
+<div class="container mt-5">
+    <h2 class="text-center text-primary mb-4">Upload Your File</h2>
+
+    <div class="card shadow-lg p-4">
+        <h5 class="card-title text-center mb-3">Select a File to Upload</h5>
+
+        <!-- File Input -->
+        <InputFile OnChange="HandleFileSelected" class="form-control mb-3" />
+
+        <!-- Upload Button -->
+        <div class="d-flex justify-content-center">
+            <button @onclick="UploadFile" class="btn btn-success" disabled="@isUploading" style="width: 200px;">
+                @if (isUploading)
+                {
+                    <span>Uploading...</span>
+                }
+                else
+                {
+                    <span>Upload File</span>
+                }
+            </button>
+        </div>
+
+        <!-- Status Message -->
+        @if (!string.IsNullOrEmpty(uploadStatus))
+        {
+            <div class="alert alert-info mt-4 text-center">
+                @uploadStatus
+            </div>
+        }
+    </div>
+</div>
+
+@code {
+    private IBrowserFile selectedFile;
+    private string uploadStatus;
+    private bool isUploading = false;
+
+    // Handles the file selection event
+    private void HandleFileSelected(InputFileChangeEventArgs e)
+    {
+        selectedFile = e.File;
+        uploadStatus = string.Empty; // Reset status message when a new file is selected
+    }
+
+    // Handles the file upload
+    private async Task UploadFile()
+    {
+        if (selectedFile == null)
+        {
+            uploadStatus = "Please select a file to upload.";
+            return;
+        }
+
+        isUploading = true;
+        try
+        {
+            var content = new MultipartFormDataContent
+            {
+                { new StreamContent(selectedFile.OpenReadStream()), "file", selectedFile.Name }
+            };
+
+            // Send file to the API's file upload endpoint
+            var response = await Http.PostAsync("https://localhost:7118/api/submission/upload", content);
+
+            if (response.IsSuccessStatusCode)
+            {
+                uploadStatus = "File uploaded successfully!";
+            }
+            else
+            {
+                uploadStatus = "Failed to upload the file. Please try again.";
+            }
+        }
+        catch (Exception ex)
+        {
+            uploadStatus = $"Error: {ex.Message}";
+        }
+        finally
+        {
+            isUploading = false;
+        }
+    }
+}

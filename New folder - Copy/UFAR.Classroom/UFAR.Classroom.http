@@ -1,0 +1,6 @@
+@UFAR.Classroom_HostAddress = http://localhost:5202
+
+GET {{UFAR.Classroom_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@UFAR.AN.API_HostAddress = http://localhost:5072
+
+GET {{UFAR.AN.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

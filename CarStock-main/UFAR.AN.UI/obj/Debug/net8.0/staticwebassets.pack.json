@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UFAR.AN.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\UFAR.AN.UI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.UI\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.UI\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.UI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.UI\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UFAR.AN.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UFAR.AN.UI.props",
+      "PackagePath": "build\\UFAR.AN.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UFAR.AN.UI.props",
+      "PackagePath": "buildMultiTargeting\\UFAR.AN.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UFAR.AN.UI.props",
+      "PackagePath": "buildTransitive\\UFAR.AN.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

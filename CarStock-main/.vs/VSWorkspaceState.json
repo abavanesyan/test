@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\UFAR.AN.API",
+    "\\UFAR.AN.API\\Controllers",
+    "\\UFAR.AN.Core\\Services",
+    "\\UFAR.AN.Core\\Services\\Items",
+    "\\UFAR.AN.Data",
+    "\\UFAR.AN.Data\\DAO",
+    "\\UFAR.AN.UI",
+    "\\UFAR.AN.UI\\Components",
+    "\\UFAR.AN.UI\\Components\\Pages"
+  ],
+  "SelectedNode": "\\UFAR.AN.Data\\DAO\\ApplicationDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}

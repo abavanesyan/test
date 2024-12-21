@@ -1,0 +1,128 @@
+[
+  {
+    "ContainingType": "UFAR.AN.API.Controllers.CarStockController",
+    "Method": "GetAllCars",
+    "RelativePath": "api/CarStock",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UFAR.AN.API.Controllers.CarStockController",
+    "Method": "AddCar",
+    "RelativePath": "api/CarStock",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "car",
+        "Type": "UFAR.AN.Data.Entities.CarsEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UFAR.AN.API.Controllers.CarStockController",
+    "Method": "UpdateCar",
+    "RelativePath": "api/CarStock/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "car",
+        "Type": "UFAR.AN.Data.Entities.CarsEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UFAR.AN.API.Controllers.CarStockController",
+    "Method": "DeleteCar",
+    "RelativePath": "api/CarStock/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UFAR.AN.API.Controllers.ItemsController",
+    "Method": "GetAllCarParts",
+    "RelativePath": "api/Items",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UFAR.AN.API.Controllers.ItemsController",
+    "Method": "AddCarPart",
+    "RelativePath": "api/Items",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "carPart",
+        "Type": "UFAR.AN.Data.Entities.ItemEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UFAR.AN.API.Controllers.ItemsController",
+    "Method": "UpdateCarPart",
+    "RelativePath": "api/Items/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "carPart",
+        "Type": "UFAR.AN.Data.Entities.ItemEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UFAR.AN.API.Controllers.ItemsController",
+    "Method": "DeleteCarPart",
+    "RelativePath": "api/Items/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

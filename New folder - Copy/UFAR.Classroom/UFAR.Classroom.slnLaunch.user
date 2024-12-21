@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "UFAR.Classroom.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\UFAR.Classroom.UI\\UFAR.Classroom.UI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

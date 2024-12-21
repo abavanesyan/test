@@ -1,0 +1,56 @@
+﻿@page "/items"
+@using UFAR.AN.Data.DAO
+@using UFAR.AN.Data.Entities
+@attribute [StreamRendering]
+
+<PageTitle>Cars List</PageTitle>
+
+
+<p>This component demonstrates showing data.</p>
+
+@if (cars == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Manufacturer</th>
+                <th>CarsFit</th>
+                <th>OEM Number</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var car in cars)
+            {
+                <tr>
+                    <td>@car.Name</td>
+                    <td>@car.Condition</td>
+                    <td>@car.CarsFit</td>
+                    <td>@car.OEM_Number</td>
+                    <td>@car.Description</td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+
+    private List<ItemEntity>? cars { get; set; }
+
+    [Inject]
+    public ApplicationDbContext context { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        cars = context.Items.ToList();
+
+
+    }
+}

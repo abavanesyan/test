@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05B827C9-C692-4B01-917E-D153D1C1B6F9}|..\\UFAR.AN.UI\\UFAR.AN.UI.csproj|c:\\users\\user\\desktop\\carstock-main\\carstock-main\\ufar.an.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A71023-40B9-46CB-9B15-0700E14C92D9}|..\\UFAR.AN.Data\\UFAR.AN.Data.csproj|c:\\users\\user\\desktop\\carstock-main\\carstock-main\\ufar.an.data\\dao\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B827C9-C692-4B01-917E-D153D1C1B6F9}|..\\UFAR.AN.UI\\UFAR.AN.UI.csproj|c:\\users\\user\\desktop\\carstock-main\\carstock-main\\ufar.an.ui\\components\\pages\\cars.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B827C9-C692-4B01-917E-D153D1C1B6F9}|..\\UFAR.AN.UI\\UFAR.AN.UI.csproj|c:\\users\\user\\desktop\\carstock-main\\carstock-main\\ufar.an.ui\\ufar.an.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1760E06-9B8E-4310-B787-ED78C8B99AD8}|..\\UFAR.AN.Core\\UFAR.AN.Core.csproj|c:\\users\\user\\desktop\\carstock-main\\carstock-main\\ufar.an.core\\services\\cars\\carservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B827C9-C692-4B01-917E-D153D1C1B6F9}|..\\UFAR.AN.UI\\UFAR.AN.UI.csproj|c:\\users\\user\\desktop\\carstock-main\\carstock-main\\ufar.an.ui\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B827C9-C692-4B01-917E-D153D1C1B6F9}|..\\UFAR.AN.UI\\UFAR.AN.UI.csproj|c:\\users\\user\\desktop\\carstock-main\\carstock-main\\ufar.an.ui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182209C6-14D2-404D-A962-CCC16273B526}|UFAR.AN.API.csproj|c:\\users\\user\\desktop\\carstock-main\\carstock-main\\ufar.an.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{182209C6-14D2-404D-A962-CCC16273B526}|UFAR.AN.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182209C6-14D2-404D-A962-CCC16273B526}|UFAR.AN.API.csproj|c:\\users\\user\\desktop\\carstock-main\\carstock-main\\ufar.an.api\\controllers\\carstockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182209C6-14D2-404D-A962-CCC16273B526}|UFAR.AN.API.csproj|solutionrelative:controllers\\carstockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182209C6-14D2-404D-A962-CCC16273B526}|UFAR.AN.API.csproj|c:\\users\\user\\desktop\\carstock-main\\carstock-main\\ufar.an.api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182209C6-14D2-404D-A962-CCC16273B526}|UFAR.AN.API.csproj|solutionrelative:controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A71023-40B9-46CB-9B15-0700E14C92D9}|..\\UFAR.AN.Data\\UFAR.AN.Data.csproj|c:\\users\\user\\desktop\\carstock-main\\carstock-main\\ufar.an.data\\entities\\carsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A71023-40B9-46CB-9B15-0700E14C92D9}|..\\UFAR.AN.Data\\UFAR.AN.Data.csproj|c:\\users\\user\\desktop\\carstock-main\\carstock-main\\ufar.an.data\\entities\\itementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A71023-40B9-46CB-9B15-0700E14C92D9}|..\\UFAR.AN.Data\\UFAR.AN.Data.csproj|c:\\users\\user\\desktop\\carstock-main\\carstock-main\\ufar.an.data\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182209C6-14D2-404D-A962-CCC16273B526}|UFAR.AN.API.csproj|c:\\users\\user\\desktop\\carstock-main\\carstock-main\\ufar.an.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182209C6-14D2-404D-A962-CCC16273B526}|UFAR.AN.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1760E06-9B8E-4310-B787-ED78C8B99AD8}|..\\UFAR.AN.Core\\UFAR.AN.Core.csproj|c:\\users\\user\\desktop\\carstock-main\\carstock-main\\ufar.an.core\\services\\items\\icarpartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1760E06-9B8E-4310-B787-ED78C8B99AD8}|..\\UFAR.AN.Core\\UFAR.AN.Core.csproj|c:\\users\\user\\desktop\\carstock-main\\carstock-main\\ufar.an.core\\services\\items\\carpartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1760E06-9B8E-4310-B787-ED78C8B99AD8}|..\\UFAR.AN.Core\\UFAR.AN.Core.csproj|c:\\users\\user\\desktop\\carstock-main\\carstock-main\\ufar.an.core\\services\\cars\\icarservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182209C6-14D2-404D-A962-CCC16273B526}|UFAR.AN.API.csproj|c:\\users\\user\\desktop\\carstock-main\\carstock-main\\ufar.an.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{182209C6-14D2-404D-A962-CCC16273B526}|UFAR.AN.API.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UFAR.AN.UI.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.UI\\UFAR.AN.UI.csproj",
+              "RelativeDocumentMoniker": "..\\UFAR.AN.UI\\UFAR.AN.UI.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.UI\\UFAR.AN.UI.csproj",
+              "RelativeToolTip": "..\\UFAR.AN.UI\\UFAR.AN.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T18:43:19.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:43:45.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.Data\\DAO\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\UFAR.AN.Data\\DAO\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.Data\\DAO\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\UFAR.AN.Data\\DAO\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:43:45.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.Data\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\UFAR.AN.Data\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.Data\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "..\\UFAR.AN.Data\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:43:45.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarsEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.Data\\Entities\\CarsEntity.cs",
+              "RelativeDocumentMoniker": "..\\UFAR.AN.Data\\Entities\\CarsEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.Data\\Entities\\CarsEntity.cs",
+              "RelativeToolTip": "..\\UFAR.AN.Data\\Entities\\CarsEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:43:45.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T18:43:45.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cars.razor",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.UI\\Components\\Pages\\Cars.razor",
+              "RelativeDocumentMoniker": "..\\UFAR.AN.UI\\Components\\Pages\\Cars.razor",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.UI\\Components\\Pages\\Cars.razor",
+              "RelativeToolTip": "..\\UFAR.AN.UI\\Components\\Pages\\Cars.razor",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T18:43:45.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.Core\\Services\\Cars\\CarServices.cs",
+              "RelativeDocumentMoniker": "..\\UFAR.AN.Core\\Services\\Cars\\CarServices.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.Core\\Services\\Cars\\CarServices.cs",
+              "RelativeToolTip": "..\\UFAR.AN.Core\\Services\\Cars\\CarServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:43:45.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\UFAR.AN.UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.UI\\appsettings.json",
+              "RelativeToolTip": "..\\UFAR.AN.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T18:43:45.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.UI\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "..\\UFAR.AN.UI\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.UI\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "..\\UFAR.AN.UI\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T18:54:16.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.UI\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "..\\UFAR.AN.UI\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.UI\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "..\\UFAR.AN.UI\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T07:14:03.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.API\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.API\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:43:45.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarStockController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.API\\Controllers\\CarStockController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarStockController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.API\\Controllers\\CarStockController.cs",
+              "RelativeToolTip": "Controllers\\CarStockController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:43:45.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.Data\\Entities\\ItemEntity.cs",
+              "RelativeDocumentMoniker": "..\\UFAR.AN.Data\\Entities\\ItemEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.Data\\Entities\\ItemEntity.cs",
+              "RelativeToolTip": "..\\UFAR.AN.Data\\Entities\\ItemEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:43:45.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICarServices.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.Core\\Services\\Cars\\ICarServices.cs",
+              "RelativeDocumentMoniker": "..\\UFAR.AN.Core\\Services\\Cars\\ICarServices.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.Core\\Services\\Cars\\ICarServices.cs",
+              "RelativeToolTip": "..\\UFAR.AN.Core\\Services\\Cars\\ICarServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:43:45.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarPartManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.Core\\Services\\Items\\CarPartManager.cs",
+              "RelativeDocumentMoniker": "..\\UFAR.AN.Core\\Services\\Items\\CarPartManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.Core\\Services\\Items\\CarPartManager.cs",
+              "RelativeToolTip": "..\\UFAR.AN.Core\\Services\\Items\\CarPartManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:43:45.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICarPartManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.Core\\Services\\Items\\ICarPartManager.cs",
+              "RelativeDocumentMoniker": "..\\UFAR.AN.Core\\Services\\Items\\ICarPartManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.Core\\Services\\Items\\ICarPartManager.cs",
+              "RelativeToolTip": "..\\UFAR.AN.Core\\Services\\Items\\ICarPartManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:43:45.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CarStock-main\\CarStock-main\\UFAR.AN.API\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T18:43:45.759Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
